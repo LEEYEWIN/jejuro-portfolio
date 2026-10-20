@@ -27,7 +27,9 @@
       <sub>
       · 추천 모델(CatBoost) 재학습<br>
       · FastAPI 추천 서버<br>
-      · 담당 기능 추가
+      · 회원가입 및 로그인 기능 구현
+      · 회원가입 시 이메일 SMTP 기능 구현
+        
       </sub>
     </td>
     <td valign="top">
