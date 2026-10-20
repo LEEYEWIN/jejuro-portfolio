@@ -29,7 +29,6 @@
       · FastAPI 추천 서버<br>
       · 회원가입 및 로그인 기능 구현
       · 회원가입 시 이메일 SMTP 기능 구현
-        
       </sub>
     </td>
     <td valign="top">
